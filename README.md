@@ -1,2 +1,2 @@
 # Food-Delivery-Website
-This website somewhat similar to food delivery services (front end only). This is a responsive website.
+Similar to food delivery app, has functionalities like food ordering, bulk ordering and has a navbar that has home, services and contact us (only frontend). This is a responsive website.
